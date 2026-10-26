@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441414435923",
+    "project_id": "yourspfc-45d6e",
+    "storage_bucket": "yourspfc-45d6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441414435923:android:f75447ff3a8c11140132a6",
+        "android_client_info": {
+          "package_name": "com.pfc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQdyzXbpWHUENGqmP-N6hNEBxIBwGDwCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
